@@ -29,7 +29,7 @@
 	<properties>
 		<java.version>21</java.version>
 		<spotless-maven-plugin.version>2.41.1</spotless-maven-plugin.version>
-		<hikari-cp.version>6.0.0</hikari-cp.version>
+		<hikari-cp.version>6.2.1</hikari-cp.version>
 	</properties>
 	<dependencies>
 		<dependency>
